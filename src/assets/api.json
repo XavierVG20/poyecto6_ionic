@@ -1,0 +1,88 @@
+{
+
+        
+        "data": [
+          {
+           
+              "id": 39,
+              "name": "Premier League",
+              "type": "League",
+              "logo": "https://media.api-sports.io/football/leagues/39.png"
+          
+          },
+          {
+           
+              "id": 40,
+              "name": "Championship",
+              "type": "League",
+              "logo": "https://media.api-sports.io/football/leagues/40.png"
+         
+          },
+       
+          {
+          
+              "id": 45,
+              "name": "FA Cup",
+              "type": "Cup",
+              "logo": "https://media.api-sports.io/football/leagues/45.png"
+        
+          },
+          {
+           
+              "id": 47,
+              "name": "FA Trophy",
+              "type": "Cup",
+              "logo": "https://media.api-sports.io/football/leagues/47.png"
+           
+          },
+          {
+              "id": 48,
+              "name": "League Cup",
+              "type": "Cup",
+              "logo": "https://media.api-sports.io/football/leagues/48.png"
+           
+          },
+          {
+              "id": 43,
+              "name": "National League",
+              "type": "League",
+              "logo": "https://media.api-sports.io/football/leagues/43.png"
+           
+          },
+          {
+           
+              "id": 41,
+              "name": "League One",
+              "type": "League",
+              "logo": "https://media.api-sports.io/football/leagues/41.png"
+           
+          },
+          {
+           
+              "id": 42,
+              "name": "League Two",
+              "type": "League",
+              "logo": "https://media.api-sports.io/football/leagues/42.png"
+           
+          },
+          {
+           
+              "id": 528,
+              "name": "Community Shield",
+              "type": "Cup",
+              "logo": "https://media.api-sports.io/football/leagues/528.png"
+          
+          },
+          {
+          
+              "id": 44,
+              "name": "FA WSL",
+              "type": "League",
+              "logo": "https://media.api-sports.io/football/leagues/44.png"
+           
+          }
+        
+         
+        ]
+    
+}
